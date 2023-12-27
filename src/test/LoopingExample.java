@@ -51,7 +51,8 @@ public class LoopingExample {
 		System.out.println("**************************************");
 		//Find even numbers between 1 to 50 by using for loop
 		
-		for(int num5=2;num5<=50;num5+=2) {
+		for(int num5=2;num5<=50;num5+=2) //num5+=2 means num5= num5+2
+		{
 			
 			System.out.println(num5);
 			
