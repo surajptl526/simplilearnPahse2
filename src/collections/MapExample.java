@@ -36,7 +36,7 @@ public class MapExample {
 		// iterate through the map using Key
 		
 		
-		for (String key : map1.keySet()) {
+		for (String key:map1.keySet()) {
 
 		System.out.println("The key is " + key);
 		System.out.println("The value is " + map1.get(key));
